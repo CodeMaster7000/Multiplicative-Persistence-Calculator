@@ -1,8 +1,8 @@
-# Persistence Calculator
+# Multiplicative Persistence Calculator
 
 ## About
 
-A simple multiplicative persistence calculator coded in Python.
+A handy multiplicative persistence calculator coded in Python.
 
 ## What is multiplicative persistence?
 
